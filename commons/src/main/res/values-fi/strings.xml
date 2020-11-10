@@ -11,9 +11,9 @@
     <string name="no_app_found">Sovelluksia ei löydetty</string>
     <string name="set_as">Aseta</string>
     <string name="copy_to_clipboard">Kopioi leikepöydälle</string>
-    <string name="copy_number_to_clipboard">Copy number to clipboard</string>
+    <string name="copy_number_to_clipboard">Kopioi numero leikepöydälle</string>
     <string name="value_copied_to_clipboard">Kopioitu leikepöydälle</string>
-    <string name="dial_number">Dial number</string>
+    <string name="dial_number">Soita numeroon</string>
     <string name="unknown">Tuntematon</string>
     <string name="always">Aina</string>
     <string name="never">Ei koskaan</string>
@@ -243,7 +243,7 @@
     <string name="dark_theme">Tumma</string>
     <string name="solarized">Solarisoitu</string>
     <string name="dark_red">Tumman punainen</string>
-    <string name="black_white">Musta &amp; Valkoinen</string>
+    <string name="black_white">Mustavalkoinen</string>
     <string name="custom">Oma</string>
     <string name="shared">Jaettu</string>
 
@@ -292,8 +292,8 @@
     <string name="middle_name">Toinen nimi</string>
     <string name="surname">Sukunimi</string>
     <string name="full_name">Koko nimi</string>
-    <string name="use_custom_sorting">Use custom sorting</string>
-    <string name="change_order">Change order</string>
+    <string name="use_custom_sorting">Valinnainen järjestys</string>
+    <string name="change_order">Vaihda järjestystä</string>
 
     <!-- Confirmation dialog -->
     <string name="proceed_with_deletion">Haluatko varmasti jatkaa poistotoimintoon?</string>
